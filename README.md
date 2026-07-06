@@ -1,1 +1,2 @@
 # ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data
+https://public.tableau.com/views/DA_project_17515597681760/D1ToyCraftTalesTableausVisionintoToyManufacturerData?:language=en-US&publish=yes&:sid=82F16264182141D7A1E9E05233753198-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
